@@ -382,4 +382,4 @@ def actualizarTreeview(event):
     except ValueError as error:
         print (f"Error al actualizar Treeview {error}") 
 
-    Formulario()
+Formulario()
